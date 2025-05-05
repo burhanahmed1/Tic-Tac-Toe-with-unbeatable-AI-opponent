@@ -67,4 +67,3 @@ Contributions are welcome! Open an issue or submit a pull request for improvemen
 
 Distributed under the Apache 2.0 License. See `LICENSE` for details.
 
-```
