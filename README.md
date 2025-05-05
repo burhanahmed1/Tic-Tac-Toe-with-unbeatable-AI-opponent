@@ -67,7 +67,4 @@ Contributions are welcome! Open an issue or submit a pull request for improvemen
 
 Distributed under the Apache 2.0 License. See `LICENSE` for details.
 
----
-
-**Note**: This project is intended for educational purposes to demonstrate game theory and search algorithms.
 ```
